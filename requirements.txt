@@ -64,7 +64,7 @@ Unidecode==1.0.22
 urllib3==1.23
 virtualenv==16.0.0
 websocket-client==0.37.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wxPython==3.0.2.0
 wxPython-common==3.0.2.0
 yoyo-migrations==5.0.3
